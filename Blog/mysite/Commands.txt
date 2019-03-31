@@ -1,0 +1,5 @@
+pip install virtualenv  # install virtual enviornment
+
+virtualenv blogenv # creates new virtual em=nviornment
+
+cd blogenv\Scripts\activate  # Go to Scripts folder where activate file is present to activate virtual env
